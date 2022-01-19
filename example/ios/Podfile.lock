@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_demo (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_demo (from `.symlinks/plugins/image_demo/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_demo:
+    :path: ".symlinks/plugins/image_demo/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  image_demo: b1e02bf39e3cabb56985af0f456bca7669a6be99
+
+PODFILE CHECKSUM: b65077db227c6d0ab92502c86115f3a4ee7124ef
+
+COCOAPODS: 1.11.2
